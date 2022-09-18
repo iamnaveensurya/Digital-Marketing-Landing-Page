@@ -1,5 +1,5 @@
 
-# HTML & CSS PROJECT 3 Law Home page ![Project badge](https://img.shields.io/badge/PROJECT%203-HTML%20%26%20CSS-orange)
+# HTML & CSS PROJECT 4 Digital Marketing Landingpage ![Project badge](https://img.shields.io/badge/PROJECT%204-HTML%20%26%20CSS-orange)
 
 I have created many websites using __*WordPress*__ but This is the first ever website I have written code from scratch using `HTML&CSS` only.
 
@@ -14,7 +14,7 @@ I have created many websites using __*WordPress*__ but This is the first ever we
 ### Live Preview :
 ---
 
-[![Project Demo](https://img.shields.io/badge/Deployed%20Link%20-Click%20Here%20for%20%20Live%20Link-green?style=flat-square&logo=Linkfire)](https://law-landing-page.netlify.app/)
+[![Project Demo](https://img.shields.io/badge/Deployed%20Link%20-Click%20Here%20for%20%20Live%20Link-green?style=flat-square&logo=Linkfire)](https://digital-marketing-landingpage.netlify.app/)
 
 
 ### Things i have learned working on this project :
